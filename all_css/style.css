@@ -13,4 +13,8 @@ p{
 .p{
     background-color: white;
     color: black;
+    .pindex{
+        background-color: black;
+        color: white;
+    }
 }
